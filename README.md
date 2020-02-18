@@ -1,6 +1,6 @@
 # J5-Tentacle-Shield
 
-  
+![White Labs Tentacle Shield for Arduino](/docs/tentacleshield.png)  
 
   
 J5-Tentacle-Shield is a [Johnny-Five](http://johnny-five.io/) Plug in for the [WhiteBox Labs](https://www.whiteboxes.ch/) [Tentacle Shield for Arduino](https://www.whiteboxes.ch/shop/tentacle/) 
@@ -13,7 +13,7 @@ This plug in exposes up to four optional circuits from [Atlas Scientific](https:
  - Dissolved Oxygen
  - Oxidation-Reduction Potential (ORP)
 
-![White Labs Tentacle Shield for Arduino](/docs/tentacleshield.png)
+
 
 
 This is currently work in progress 
