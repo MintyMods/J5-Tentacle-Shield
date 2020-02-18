@@ -1,0 +1,32 @@
+{
+  "name": "j5-tentacle-shield",
+  "version": "1.0.0",
+  "description": "J5-Tentacle-Shield is a Johnny-Five Plug in for the WhiteBox Labs Tentacle Shield for Arduino",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MintyMods/J5-Tentacle-Shield.git"
+  },
+  "keywords": [
+    "Johnny-Five",
+    "WhiteBox",
+    "Arduino",
+    "Tentacle",
+    "Shield",
+    "JavaScript",
+    "MintyMods"
+  ],
+  "author": "Rob Gregory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MintyMods/J5-Tentacle-Shield/issues"
+  },
+  "homepage": "https://github.com/MintyMods/J5-Tentacle-Shield#readme"
+}
