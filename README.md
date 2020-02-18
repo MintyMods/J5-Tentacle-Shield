@@ -40,17 +40,8 @@ This plug in exposes up to four circuits from [Atlas Scientific](https://www.atl
             console.log("Temperature: " + reading.value + reading.unit); // e.g. 26.1°C
         });
         ph.on("data", function(reading) { // fires every reading as an event
-            console.log("PH: " + reading.value); // e.g. 26.1°C
+            console.log("PH: " + reading.value); 
         });
-
-
-
-    });
-
-    tentacle.on("change", function() {
-
-
-
 
     });
 
