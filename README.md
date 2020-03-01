@@ -46,7 +46,7 @@ This plug in exposes up to four circuits from [Atlas Scientific](https://www.atl
     });
 
 ```
-
+![Minty Hydro Box](/docs/MintyHydroBox1.png)  
 
 These circuits can be mixed and matched in any combination and currently support the following types of sensors which can purchased from the White Box Labs [online shop](https://www.whiteboxes.ch/shop/) or directly from [Atlas Scientific](https://www.atlas-scientific.com/):-
 
@@ -70,3 +70,4 @@ This is currently work in progress
 
 
 
+![Minty Hydro Box](/docs/MintyHydroBox2.png)  
